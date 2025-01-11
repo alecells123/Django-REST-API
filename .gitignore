@@ -1,0 +1,8 @@
+
+drinks/.venv/
+
+*.sqlite3
+
+drinks/drinks/__pycache__/
+
+drinks/drinks/migrations/
