@@ -6,3 +6,5 @@ drinks/.venv/
 drinks/drinks/__pycache__/
 
 drinks/drinks/migrations/
+
+.DS_Store
